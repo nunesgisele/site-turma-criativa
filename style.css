@@ -131,10 +131,10 @@ text-align: center;
 
 .estudante-titulo{
   text-align: center;
-  padding: 50px;
+  padding: 50px 0;
 }
 
-.estudantes-todos{
+.estudante-todos{
   display: grid;
   grid-template-columns: 20% 20% 20% 20% 20%;
 }
